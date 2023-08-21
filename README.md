@@ -6,6 +6,6 @@ I am a co-PI in the [GPU4GEO](https://ptsolvers.github.io/GPU4GEO/) PASC project
 
 I also designed and launched the [Solving partial differential equations in parallel on GPUs](https://pde-on-gpu.vaw.ethz.ch) course at ETH Zurich, democratising HPC GPU computing and software engineering skills in natural science and engineering studies using the Julia language.
 
-I am also contributing to the [Julia language](https://github.com/JuliaLang/julia/) open-source project, mostly for scientific computing in the [JuliaGPU](https://github.com/JuliaGPU) and [JuliaParallel](https://github.com/JuliaParallel) projects.
+I am also contributing to the [Julia language](https://github.com/JuliaLang/julia/) open-source project in the [JuliaGPU](https://github.com/JuliaGPU) and [JuliaParallel](https://github.com/JuliaParallel) domains.
 
 [![Ludovic's GitHub stats](https://github-readme-stats.vercel.app/api?username=luraess)](https://github.com/anuraghazra/github-readme-stats)
