@@ -4,7 +4,7 @@ computational geoscientist at the [University of Lausanne](https://www.unil.ch/g
 
 I am a co-PI in the [GPU4GEO](https://ptsolvers.github.io/GPU4GEO/) PASC project, developing _Frontier GPU multi-physics solvers_ and PI of the EuroHPC [STREAM](https://eurohpc-ju.europa.eu/access-our-supercomputers/awarded-projects/spontaneous-rearrangment-ice-motion-stream_en) project to unveil _what mechanisms control the spontaneous rearrangement of ice motion in ice sheets_.
 
-I also designed and launched the [Solving partial differential equations in parallel on GPUs](https://pde-on-gpu.vaw.ethz.ch) course at ETH Zurich, democratising HPC GPU computing and software engineering skills in natural science and engineering studies using the Julia language.
+I also designed and launched the [Solving partial differential equations in parallel on GPUs](https://pde-on-gpu.vaw.ethz.ch) course at ETH Zurich, democratising HPC and GPU supercomputing and software engineering skills in natural science and engineering studies using the Julia language.
 
 I am also contributing to the [Julia language](https://github.com/JuliaLang/julia/) open-source project in the [JuliaGPU](https://github.com/JuliaGPU) and [JuliaParallel](https://github.com/JuliaParallel) domains.
 
