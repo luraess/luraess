@@ -1,11 +1,15 @@
-### Hi, I'm Ludovic
+### Welcome!
 
-computational geoscientist at the [University of Lausanne](https://www.unil.ch/gse/home/menuinst/faculte/english.html) and lecturer at the [ETH Zurich Glaciology lab](https://vaw.ethz.ch/en/research/glaciology.html). I have a strong interest in high-performance computing (HPC) and the use of graphics processing units (GPUs) to accelerate computations. GPUs and supercomputers permit the investigation of previously unsolvable problems at unprecedented resolutions. My research interests aim at better understanding spontaneous localisation of flow in deforming porous media and ice dynamics. On the technical aspects, I explore and develop portable and backend agnostic HPC software and tools.
+I am a computational geoscientist at the [University of Lausanne](https://www.unil.ch/gse/home/menuinst/faculte/english.html) and a lecturer at the [ETH Zurich Glaciology lab](https://vaw.ethz.ch/en/research/glaciology.html). My research lies at the intersection of high-performance computing (HPC), geophysics, and applied mathematics, with a strong focus on leveraging graphics processing units (GPUs) to accelerate scientific computing. By harnessing GPUs and supercomputers, I aim to tackle previously unsolvable problems at unprecedented resolutions.
 
-I am a co-PI in the [GPU4GEO](https://ptsolvers.github.io/GPU4GEO/) PASC project, developing _Frontier GPU multi-physics solvers_ and PI of the EuroHPC [STREAM](https://eurohpc-ju.europa.eu/access-our-supercomputers/awarded-projects/spontaneous-rearrangment-ice-motion-stream_en) project to unveil _what mechanisms control the spontaneous rearrangement of ice motion in ice sheets_.
+My work centers on understanding spontaneous flow localisation in deforming porous media and ice dynamics. From a technical perspective, I develop portable, backend-agnostic HPC software and tools, enabling scalable simulations across diverse computing architectures.
 
-I also designed and launched the [Solving partial differential equations in parallel on GPUs](https://pde-on-gpu.vaw.ethz.ch) course at ETH Zurich, democratising HPC and GPU supercomputing and software engineering skills in natural science and engineering studies using the Julia language.
+### Research & Initiatives
 
-I am also contributing to the [Julia language](https://github.com/JuliaLang/julia/) open-source project in the [JuliaGPU](https://github.com/JuliaGPU) and [JuliaParallel](https://github.com/JuliaParallel) domains.
+I lead the [GPU4GEO initiative](https://GPU4GEO.org), which focuses on developing **frontier GPU-based multi-physics solvers**. Recently, my research has expanded into **differentiable modeling and large-scale optimisation**, where we are pioneering differentiable multi-physics solvers for extreme-scale geophysical simulations using the [Julia language](https://github.com/JuliaLang/julia/). Our contributions integrate with the broader **Julia open-source ecosystem**, particularly in [JuliaGPU](https://github.com/JuliaGPU) and [JuliaParallel](https://github.com/JuliaParallel).
+
+### Teaching & Outreach
+
+As part of my commitment to **democratising HPC and GPU supercomputing**, I designed and launched the [Solving partial differential equations in parallel on GPUs](https://pde-on-gpu.vaw.ethz.ch) course at ETH Zurich. This course equips students in natural sciences and engineering with hands-on experience in HPC, GPU programming, and software engineering using Julia.
 
 [![Ludovic's GitHub stats](https://github-readme-stats.vercel.app/api?username=luraess)](https://github.com/anuraghazra/github-readme-stats)
