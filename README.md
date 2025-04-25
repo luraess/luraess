@@ -6,7 +6,7 @@ My work centers on understanding spontaneous flow localisation in deforming poro
 
 #### Research & Initiatives
 
-I lead the [GPU4GEO initiative](https://GPU4GEO.org), which focuses on developing **frontier GPU-based multi-physics solvers**. Recently, my research has expanded into **differentiable modeling and large-scale optimisation**, where we are pioneering differentiable multi-physics solvers for extreme-scale geophysical simulations using the [Julia language](https://github.com/JuliaLang/julia/). Our contributions integrate with the broader **Julia open-source ecosystem**, particularly in [JuliaGPU](https://github.com/JuliaGPU) and [JuliaParallel](https://github.com/JuliaParallel).
+I lead the [GPU4GEO initiative](https://GPU4GEO.org), which focuses on developing **frontier GPU-based multi-physics solvers**. Recently, my research has expanded into **differentiable modelling and large-scale optimisation**, where we are pioneering differentiable multi-physics solvers for extreme-scale geophysical simulations using the [Julia language](https://github.com/JuliaLang/julia/). Our contributions integrate with the broader **Julia open-source ecosystem**, particularly in [JuliaGPU](https://github.com/JuliaGPU) and [JuliaParallel](https://github.com/JuliaParallel).
 
 #### Teaching & Outreach
 
